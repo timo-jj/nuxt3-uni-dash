@@ -28,7 +28,7 @@
         class="search__input"
       >
 
-      <button tye="button" @click="clearFilters">
+      <button type="button" @click="clearFilters">
         clear all filters
       </button>
     </section>

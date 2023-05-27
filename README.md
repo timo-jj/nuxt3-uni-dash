@@ -7,11 +7,6 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 Make sure to install the dependencies:
 
 ```bash
-# docker
-docker-compose up
-
-# OR
-
 # yarn
 yarn install
 
@@ -28,6 +23,11 @@ Start the development server on `http://localhost:3000`
 
 ```bash
 npm run dev
+
+# OR
+
+# docker
+docker-compose up
 ```
 
 ## Production

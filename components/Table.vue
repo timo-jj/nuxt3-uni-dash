@@ -39,7 +39,7 @@
 
         <td data-label="Add / Remove favourites">
           <button
-            tye="button"
+            type="button"
             :class="[
               'table__cta',
               {
